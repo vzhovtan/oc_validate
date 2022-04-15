@@ -1,0 +1,58 @@
+[
+  {
+  "method": "get",
+  "path": "/interfaces/interface",
+  "encoding": "json_ietf",
+  "subscriptionMode": "",
+  "sampleInterval":""
+  },
+  {
+  "method": "get",
+  "path": "/system/memory",
+  "encoding": "json_ietf",
+  "subscriptionMode": "",
+  "sampleInterval":""
+  },
+  {
+  "method": "get",
+  "path": "/system/memory/state/physical",
+  "encoding": "json_ietf",
+  "subscriptionMode": "",
+  "sampleInterval":""
+  },
+  {
+  "method": "get",
+  "path": "/system/processes",
+  "encoding": "json_ietf",
+  "subscriptionMode": "",
+  "sampleInterval":""
+  },
+  {
+  "method": "get",
+  "path": "/system/state",
+  "encoding": "json_ietf",
+  "subscriptionMode": "",
+  "sampleInterval":""
+  },
+  {
+  "method": "get",
+  "path": "/system/clock",
+  "encoding": "json_ietf",
+  "subscriptionMode": "",
+  "sampleInterval":""
+  },
+  {
+  "method": "get",
+  "path": "/system/ntp",
+  "encoding": "json_ietf",
+  "subscriptionMode": "",
+  "sampleInterval":""
+  },
+  {
+  "method": "get",
+  "path": "/components",
+  "encoding": "json_ietf",
+  "subscriptionMode": "",
+  "sampleInterval":""
+  }
+]
